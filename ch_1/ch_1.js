@@ -1,6 +1,7 @@
 let a=12;
 // console.log(a);
 
+// hotcode-too many lines to execute or display
 for (let a = 0; a < 999999; a++) {
     console.log(a);
     
