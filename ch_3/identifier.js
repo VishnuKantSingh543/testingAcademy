@@ -24,16 +24,23 @@ var name = "Vishnu";
 var first_name = "Vishnu"; 
 //snake case
 
+var FIRST_NAME;
+//SCREMING_SNAKE_CASE - for constants (values that will not change)
+
 var FirstName = "Vishnu"; 
-//pascal case
+//pascal case - standard for classes and constructor functions
 
 var firstName = "Vishnu"; 
-//camel case
+//camel case - standard for variables and functions
 
 var strName = "abcd"; 
-//hungarian notation
+//hungarian notation - old way, not recommeded
 
 var arrItems = [1,2,3]; 
 //array in hungarian notation
 
+var first-name;
+//Kebab case- not allowed in js (can be used in html and css)
 
+var First-Name;
+//Train case- not allowed in js (can be used for HTTP headers)
